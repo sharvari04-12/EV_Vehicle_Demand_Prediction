@@ -42,6 +42,7 @@ st.markdown("""
 # Image
 st.image("ev-car-factory.jpg", use_container_width=True)
 
+
 # Instruction line
 st.markdown("""
     <div style='text-align: left; font-size: 22px; padding-top: 10px; color: #FFFFFF;'>
